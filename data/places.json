@@ -1,0 +1,94 @@
+{
+    "places":[
+        {
+            "cityName": "City 1",
+            "cityState": "State 1",
+            "cityImage": "https://via.placeholder.com/140x100",
+            "favoriteRestaurant": "Fav Restaurant 1",
+            "favoriteBar": "Fav Bar 1",
+            "favoriteHotel": "Fav Hotel 1",
+            "favoriteTouristAttraction": "Fav Tourist Attraction 1"
+        },
+        {
+            "cityName": "City 2",
+            "cityState": "State 2",
+            "cityImage": "https://via.placeholder.com/140x100",
+            "favoriteRestaurant": "Fav Restaurant 2",
+            "favoriteBar": "Fav Bar 2",
+            "favoriteHotel": "Fav Hotel 2",
+            "favoriteTouristAttraction": "Fav Tourist Attraction 2"
+        },
+        {
+            "cityName": "City 3",
+            "cityState": "State 3",
+            "cityImage": "https://via.placeholder.com/140x100",
+            "favoriteRestaurant": "Fav Restaurant 3",
+            "favoriteBar": "Fav Bar 3",
+            "favoriteHotel": "Fav Hotel 3",
+            "favoriteTouristAttraction": "Fav Tourist Attraction 3"
+        },
+        {
+            "cityName": "City 4",
+            "cityState": "State 4",
+            "cityImage": "https://via.placeholder.com/140x100",
+            "favoriteRestaurant": "Fav Restaurant 4",
+            "favoriteBar": "Fav Bar 4",
+            "favoriteHotel": "Fav Hotel 4",
+            "favoriteTouristAttraction": "Fav Tourist Attraction 4"
+        },
+        {
+            "cityName": "City 5",
+            "cityState": "State 5",
+            "cityImage": "https://via.placeholder.com/140x100",
+            "favoriteRestaurant": "Fav Restaurant 5",
+            "favoriteBar": "Fav Bar 5",
+            "favoriteHotel": "Fav Hotel 5",
+            "favoriteTouristAttraction": "Fav Tourist Attraction 5"
+        },
+        {
+            "cityName": "City 6",
+            "cityState": "State 6",
+            "cityImage": "https://via.placeholder.com/140x100",
+            "favoriteRestaurant": "Fav Restaurant 6",
+            "favoriteBar": "Fav Bar 6",
+            "favoriteHotel": "Fav Hotel 6",
+            "favoriteTouristAttraction": "Fav Tourist Attraction 6"
+        },
+        {
+            "cityName": "City 7",
+            "cityState": "State 7",
+            "cityImage": "https://via.placeholder.com/140x100",
+            "favoriteRestaurant": "Fav Restaurant 7",
+            "favoriteBar": "Fav Bar 7",
+            "favoriteHotel": "Fav Hotel 7",
+            "favoriteTouristAttraction": "Fav Tourist Attraction 7"
+        },
+        {
+            "cityName": "City 8",
+            "cityState": "State 8",
+            "cityImage": "https://via.placeholder.com/140x100",
+            "favoriteRestaurant": "Fav Restaurant 8",
+            "favoriteBar": "Fav Bar 8",
+            "favoriteHotel": "Fav Hotel 8",
+            "favoriteTouristAttraction": "Fav Tourist Attraction 8"
+        },
+        {
+            "cityName": "City 9",
+            "cityState": "State 9",
+            "cityImage": "https://via.placeholder.com/140x100",
+            "favoriteRestaurant": "Fav Restaurant 9",
+            "favoriteBar": "Fav Bar 9",
+            "favoriteHotel": "Fav Hotel 9",
+            "favoriteTouristAttraction": "Fav Tourist Attraction 9"
+        },
+        {
+            "cityName": "City 10",
+            "cityState": "State 10",
+            "cityImage": "https://via.placeholder.com/140x100",
+            "favoriteRestaurant": "Fav Restaurant 10",
+            "favoriteBar": "Fav Bar 10",
+            "favoriteHotel": "Fav Hotel 10",
+            "favoriteTouristAttraction": "Fav Tourist Attraction 10"
+        }
+    ]
+}
